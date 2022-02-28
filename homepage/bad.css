@@ -1,0 +1,39 @@
+body{
+    background-image: url("img/bg.jpg");
+}
+
+.who{
+    color: yellow;
+    width:40%;
+}
+
+.history{
+    color:greenyellow;
+    width:40%;
+}
+
+.offer{
+    color:white;
+    width:40%;
+}
+
+.important{
+    color:red;
+    width:40%;
+}
+
+h1{
+    background-color: blue;
+}
+h3{
+    background-color: black;
+}
+
+img{
+    float: right;
+    border:20px;
+    border-color:  white;
+    border-style:  double;
+    border-radius: 20px;
+    width:200px;
+}

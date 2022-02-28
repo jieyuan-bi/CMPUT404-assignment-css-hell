@@ -1,0 +1,54 @@
+body{
+    background-color: blanchedalmond;
+    margin-left:10% !important;
+    margin-right:10% !important;
+}
+
+p {
+    font-family: "Lucida Console", "Courier New", monospace;
+    line-height: 200%;
+    background-color: beige;
+    padding:10px;
+  }
+
+.title{
+    border: 5px;
+    border-style: inset;
+    border-color: sienna;
+    background-color: beige;
+    color: rgb(3, 77, 0);
+}
+
+img{
+    border: 8px outset grey;
+    border-radius: 10px;
+    transform: rotate(20deg);
+    width: 20% !important;;
+}
+
+h1{
+    font-family: "Bradley Hand", "cursive";
+    background-color: beige;
+    border:5px;
+    border-style: inset;
+    border-color: brown;
+    color: rgb(187, 90, 0);
+}
+/* h1{
+    font-family: "Comic Sans MS", "Comic Sans", "cursive";
+} */
+
+h2{
+    font-family: "Comic Sans MS", "Comic Sans", "cursive";
+    color: brown;
+}
+
+h3{
+    background-color: lightsalmon;
+}
+
+.verse{
+    background-color: darkgrey;
+    border: 3px dashed white;
+    border-radius: 15px;
+}

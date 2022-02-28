@@ -1,0 +1,111 @@
+body{
+    background-color: bisque;
+    margin:20px 5%;
+}
+
+p{
+    font-size: 1em;
+    font-family: Monospace,"Lucida Console";
+}
+
+li{
+    font-size: 1em;
+    font-family: Monospace,"Lucida Console";
+    line-height: 1.5em;
+}
+
+h1{
+    text-align: center; 
+    margin-top: 40px;
+    font-family: cursive,"Lucida Handwriting";
+}
+
+h1 span{
+    background-color: azure;
+    border:5px;
+    border-style: outset;
+    border-radius: 5px;
+    padding:5px;
+}
+
+h3{
+    font-family: Sans-serif;
+    font-style: italic;
+}
+
+h3 span{
+    padding:2px;
+    border:2px;
+    border-color: grey;
+    border-style: dashed;
+    border-radius: 5px;
+}
+
+.who{
+    border-radius: 20px;
+    background-color:blanchedalmond;
+    padding:20px;
+    margin:20px;
+    clear: right;
+}
+
+.history{
+    border-radius: 20px;
+    background-color:blanchedalmond;
+    padding:20px;
+    margin:20px;
+}
+
+.offer{
+    border-radius: 20px;
+    background-color:blanchedalmond;
+    padding:20px;
+    margin:20px;
+}
+
+.important{
+    border-radius: 20px;
+    background-color:blanchedalmond;
+    padding:20px;
+    margin:20px;
+}
+
+#name{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#major{
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+#school{
+    font-size: 1.1em;
+    font-weight: bold;
+
+}
+
+#job{
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+img{
+    /* display: block;
+    margin-left: auto; */
+    float:right;
+    width:120px;
+    border: 5px;
+    border-style: outset;
+    border-color: rgb(189, 189, 189);
+    border-radius: 10px;
+}
+
+.intro{
+    width:80%;
+}
+
+a:link {color:rgb(0, 92, 23); text-decoration:none}
+a:visited {color:rgb(0, 92, 23); text-decoration:none}
+a:hover {color:rgb(0, 196, 26)}
