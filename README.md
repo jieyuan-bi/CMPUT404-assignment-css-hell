@@ -1,3 +1,12 @@
+Changes in gutenberg
+====================
+Text color change of h1 and h1 tags.
+Background color changes for body and p tags.
+Outlines for titles and subtitles.
+Outlines and rotate of image.
+Font family for different text.
+A better text inline and height.
+
 Assignment: CSS Hell
 ====================
 
@@ -18,6 +27,8 @@ License/Copyright
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2013 Abram Hindle visibile in the text.
+Attribution:
+Jieyuan Bi
 
 Code is licensed under the Apache 2.0 license.
 
