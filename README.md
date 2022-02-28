@@ -1,10 +1,15 @@
 Changes in gutenberg
 ====================
 Text color change of h1 and h1 tags.
+
 Background color changes for body and p tags.
+
 Outlines for titles and subtitles.
+
 Outlines and rotate of image.
+
 Font family for different text.
+
 A better text inline and height.
 
 Assignment: CSS Hell
